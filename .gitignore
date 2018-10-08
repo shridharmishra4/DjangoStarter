@@ -217,3 +217,10 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/NamekoDjango.iml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
